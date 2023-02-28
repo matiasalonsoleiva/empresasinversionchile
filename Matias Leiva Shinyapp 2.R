@@ -10,6 +10,9 @@ library(ggplot2)
 library(dplyr)
 library(DT)
 
+
+# PARA VISITAR EL RESULTADO FINAL POR FAVOR HACER IR A # matiasalonsoleiva.shinyapps.io/plop/ # 
+
 # Listado Empresa ---------------------------------------------------------
 
 
