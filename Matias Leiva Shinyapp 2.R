@@ -53,7 +53,7 @@ ui <- fluidPage(
   #  Incorporar un diseño con el paquete shinythemes o bslib
   theme = shinytheme("spacelab"),
   
-  titlePanel("Visualización de datos de empresas inversionstas"),
+  titlePanel("Visualización de datos de empresas inversionstas - Matias A. Leiva"),
   
   #Disponga la información a través de un layout de sidebar y mainpanel
   
